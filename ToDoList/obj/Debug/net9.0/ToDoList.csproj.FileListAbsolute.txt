@@ -1,0 +1,5 @@
+/mnt/e/Burn-dev/C#/ToDoList/ToDoList/obj/Debug/net9.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/e/Burn-dev/C#/ToDoList/ToDoList/obj/Debug/net9.0/ToDoList.AssemblyInfoInputs.cache
+/mnt/e/Burn-dev/C#/ToDoList/ToDoList/obj/Debug/net9.0/ToDoList.AssemblyInfo.cs
+/mnt/e/Burn-dev/C#/ToDoList/ToDoList/obj/Debug/net9.0/ToDoList.csproj.CoreCompileInputs.cache
+/mnt/e/Burn-dev/C#/ToDoList/ToDoList/obj/Debug/net9.0/ToDoList.sourcelink.json
